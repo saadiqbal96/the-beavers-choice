@@ -78,8 +78,8 @@ python beaver_choice_multi_agent.py
 
 ##  Author
 
-**Feras Khairallah**
-- GitHub: [@ferasxd1](https://github.com/ferasxd1)
+**Saad Iqbal**
+- GitHub: [@saadiqbal96](https://github.com/saadiqbal96)
 
 ---
 
